@@ -1,24 +1,18 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 /**
  * main - print number greater than five, zero or less than six and not zero
  *
  * Description: prints "last digit"
- *
  * Return: 0
  */
 int main(void)
-
 {
 
 	int n;
 
 	int l;
-
-
 
 	srand(time(0));
 
@@ -26,25 +20,21 @@ int main(void)
 
 	l = n % 10;
 
-
-
-	if (l > 5)
-
+if (l > 5)
 	{
 
 			printf("Last digit of %d is %d and is greater than 5\n", n, l);
 
 	}
 
-	else if (l == 0)
-
+else if (l == 0)
 	{
 
 			printf("Last digit of %d is %d and is 0\n", n, l);
 
 	}
 
-	else
+else
 
 	{
 
