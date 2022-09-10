@@ -1,4 +1,4 @@
-#include <studiolib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
@@ -28,6 +28,6 @@ else if (n < 0)
 {
 	printf("%i is negative\n", n);
 }
-return(0)
+return (0);
 }
 
