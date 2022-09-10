@@ -2,8 +2,9 @@
 /**
  * main - prints the alphabet in lowercase and uppercase
  *
- * Description - program prints "[A-Z][a-z]"
- * return: 0
+ * Description - program prints "[A-Z][a-z]
+ *
+ * return: '0'
  */
 
 int main(void)
