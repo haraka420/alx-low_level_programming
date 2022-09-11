@@ -4,7 +4,7 @@
  * Description: prints "all possible combinations"
  * return: 0
  */
-int main(0)
+int main(void)
 {
 	int c = 0;
 	int f_d;
