@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - print if the number is postive, zero, or negative
- * Description - program prints "programming is fun"
+ * main - prints the alphabet in lowercase and uppercase
+ *
+ * description - program prints "[A-Z][a-z]"
  * Return: 0
  */
-
 int main(void)
 {
 	char ch;
@@ -17,7 +17,5 @@ for (ch = 'A' ; ch <= 'Z' ; ch++)
 	putchar(ch);
 }
 putchar ('\n');
+return (0);
 }
-
-Return(0);
-

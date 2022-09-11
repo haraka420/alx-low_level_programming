@@ -29,6 +29,6 @@ for (c = 'a'; c <= 'f'; c++)
 }
 	putchar('\n');
 
-	Return(0);
+	return(0);
 
 }
