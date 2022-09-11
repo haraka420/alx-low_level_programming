@@ -4,7 +4,7 @@
  *
  * Description: program prints "hexadecimals in lowercase"
  *
- * return: 0
+ * Return: 0
  */
 int main(void)
 
@@ -29,6 +29,6 @@ for (c = 'a'; c <= 'f'; c++)
 }
 	putchar('\n');
 
-	return (0);
+	Return(0);
 
 }

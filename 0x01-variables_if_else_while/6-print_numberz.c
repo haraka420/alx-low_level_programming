@@ -4,7 +4,7 @@
  *
  * Description: programme prints " all single numbers"
  *
- * return: 0 
+ * return: 0
  */
 int main(void)
 
@@ -16,6 +16,6 @@ for (n = '0'; n <= '9'; n++)
 }
 putchar('\n');
 
-return (0);
+Return (0);
 
 }

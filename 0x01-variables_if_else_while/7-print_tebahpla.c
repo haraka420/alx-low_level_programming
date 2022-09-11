@@ -3,7 +3,7 @@
  * main - programme that prints the reverse alphabet
  *
  * Description: using main function programme prints " reverse alphabet"
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
@@ -13,5 +13,5 @@ for (c = 'z'; c >= 'a'; c--)
 	putchar(c);
 }
 putchar('\n');
-return (0);
+Return(0);
 }

@@ -2,8 +2,8 @@
 /**
  * main - prints all digits
  *
- * Description - this program prints " All digits
- * return : 0
+ * Description - this program prints " All digits"
+ * Return : 0
  */
 int main(void)
 {
@@ -14,6 +14,5 @@ for (i = 0; i < 10; i++)
 }
 printf("\n");
 
-return (0);
-
+Return(0);
 }
