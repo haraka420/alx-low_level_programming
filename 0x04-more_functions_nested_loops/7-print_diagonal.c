@@ -14,7 +14,7 @@ for (len = 0; space < len; space++)
 {
 	putchar (' ');
 }
-putchar ('\\')
+putchar ('\\');
 
 if (len == (n - 1))
 {
