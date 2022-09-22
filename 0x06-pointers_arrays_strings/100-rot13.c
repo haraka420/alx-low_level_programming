@@ -17,8 +17,9 @@ for (i = 0; *(s + i); i++)
 for (j = 0; j < 52; j++)
 {
 	if (a[j] == *(s + i))
+	*(s + i) = b[j];
 }
-*(s + i) = b[j];break;
+break;
 }
 return (s);
 }
