@@ -1,4 +1,3 @@
-Task 0.txt
 #include "main.h"
 #include <stdlib.h>
 
